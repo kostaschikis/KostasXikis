@@ -1,6 +1,8 @@
 # Hi, I'm Kostas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a **Full Stack Developer** who is currently getting into **DevOps**.
+I am a **Full Stack Developer** who is currently getting into **DevOps**.  
+
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-kostaschikimtzis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kostaschikimtzis/)](https://www.linkedin.com/in/kostaschikimtzis/)
 
 - 🔭 I’m currently working on this README
 - 🌱 I’m currently learning DevOps, TypeScript and Laravel
@@ -15,10 +17,4 @@ I am a **Full Stack Developer** who is currently getting into **DevOps**.
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KostasXikis&layout=compact&theme=dracula" />
-</a>
-
-## Where to find me
-
-<a href="https://linkedin.com/in/kostaschikimtzis">
-  <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/>
 </a>
