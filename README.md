@@ -1,4 +1,4 @@
-# Hi, I'm Kostas 👋💻
+# Hi, I'm Kostas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am a **Full Stack Developer** who is currently getting into **DevOps**.
 
@@ -17,8 +17,7 @@ I am a **Full Stack Developer** who is currently getting into **DevOps**.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KostasXikis&layout=compact&theme=dracula" />
 </a>
 
-<br>
-<br>
+## Where to find me
 
 <a href="https://linkedin.com/in/kostaschikimtzis">
   <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/>
