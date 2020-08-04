@@ -7,6 +7,9 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am also a music producer and i love Hardstyle
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KostasXikis&hide=prs,contribs&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KostasXikis&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KostasXikis&hide=prs&count_private=true&theme=dracula&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KostasXikis&layout=compact&theme=dracula" />
+</a>
