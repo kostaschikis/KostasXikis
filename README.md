@@ -2,7 +2,7 @@
 
 I am a **Full Stack Developer** who is currently getting into **DevOps**.  
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-kostaschikimtzis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kostaschikimtzis/)](https://www.linkedin.com/in/kostaschikimtzis/)
+[![Linkedin: kostaschikimtzis](https://img.shields.io/badge/-kostaschikimtzis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kostaschikimtzis/)](https://www.linkedin.com/in/kostaschikimtzis/)
 
 - 🔭 I’m currently working on this README
 - 🌱 I’m currently learning DevOps, TypeScript and Laravel
