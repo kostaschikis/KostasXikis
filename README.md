@@ -9,7 +9,7 @@ I am a **Full Stack Developer** who is currently getting into **DevOps**.
 - 🎓 I’m currently studying Digital Systems @ [UNIPI](https://www.unipi.gr/unipi/en/)
 - 💬 Ask me about anything
 - 📫 How to reach me: kostaschikis@gmail.com
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am also a music producer and i love Hardstyle
 
 ## Languages & Tools
