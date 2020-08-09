@@ -35,8 +35,8 @@ I am a **Full Stack Developer** who is currently getting into **DevOps**.
 ## 📊 Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KostasXikis&hide=html,css&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KostasXikis&hide=html,css,Java&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KostasXikis&hide=prs,contribs&count_private=true&theme=dracula&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KostasXikis&hide=prs&count_private=true&theme=dracula&show_icons=true" />
 </a>
