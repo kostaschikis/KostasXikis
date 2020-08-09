@@ -12,7 +12,7 @@ I am a **Full Stack Developer** who is currently getting into **DevOps**.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am also a music producer and i love Hardstyle
 
-## Languages & Tools
+## 🔧 Languages & Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -32,11 +32,11 @@ I am a **Full Stack Developer** who is currently getting into **DevOps**.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-## Stats
+## 📊 Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KostasXikis&hide=prs&count_private=true&theme=dracula&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KostasXikis&hide=html,css&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KostasXikis&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KostasXikis&hide=prs,contribs&count_private=true&theme=dracula&show_icons=true" />
 </a>
