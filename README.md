@@ -4,7 +4,7 @@ I am a **Full Stack Developer** who is currently getting into **DevOps**.
 
 [![Linkedin: kostaschikimtzis](https://img.shields.io/badge/-kostaschikimtzis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kostaschikimtzis/)](https://www.linkedin.com/in/kostaschikimtzis/)
 
-- 🔭 I’m currently working on this README
+- 🔭 I’m currently working on a Kubernetes course 
 - 🌱 I’m currently learning TypeScript, Laravel and DevOps
 - 🎓 I’m currently studying Digital Systems @ [UNIPI](https://www.unipi.gr/unipi/en/)
 - 💬 Ask me about anything
