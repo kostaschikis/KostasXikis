@@ -4,7 +4,7 @@ I am a **Full Stack Developer** who is currently getting into **DevOps**.
 
 [![Linkedin: kostaschikimtzis](https://img.shields.io/badge/-kostaschikimtzis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kostaschikimtzis/)](https://www.linkedin.com/in/kostaschikimtzis/)
 
-- 🔭 Working as a Software Engineer @ [HeaDS Research](https://heads-research.com)
+- 🏢 I'm currently working @ [HeaDS Research](https://heads-research.com)
 - 🌱 Learning DevOps, Laravel and TypeScript
 - 🎓 Doing my Thesis at Digital Systems @ [UNIPI](https://www.unipi.gr/unipi/en/)
 - 💬 Ask me about anything
